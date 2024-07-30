@@ -1,4 +1,4 @@
-Hi there! I'm n-d-r-d-g, a front-end developer, freelancer and coach based in 🇲🇺 Mauritius!
+**Hi there! I'm n-d-r-d-g, a front-end developer, freelancer and coach based in 🇲🇺 Mauritius!**
 
 Here are a few projects I've created/contributed to:
 
@@ -12,7 +12,7 @@ Here are a few projects I've created/contributed to:
 
 Feel free to contact me for work, coaching or simply talk dev.
 
-Check out [my website](https://n-d-r-d-g.com) for more.
+🚀 Check out [**my website**](https://n-d-r-d-g.com) for more!
 
 <!--
 **n-d-r-d-g/n-d-r-d-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
