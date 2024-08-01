@@ -1,14 +1,14 @@
 **Hi there! I'm n-d-r-d-g, a front-end developer, freelancer and coach based in 🇲🇺 Mauritius!**
 
-Here are a few projects I've created/contributed to:
+Here are a few projects I've contributed to:
 
-- MUDOCS
-- Mauritius Tax Calculator
-- Slides
-- Kubernetes Environment Variables Converter
-- DevConMU Scheduler
-- frontend.mu
-- The Web Conference
+- [MUDOCS](https://github.com/n-d-r-d-g/redesigned/tree/main/mudocs)
+- [Mauritius Tax Calculator](https://github.com/n-d-r-d-g/redesigned/tree/main/mauritius_tax_calculator)
+- [Slides](https://github.com/n-d-r-d-g/slides)
+- [Kubernetes Environment Variables Converter](https://github.com/n-d-r-d-g/k8s-env-converter)
+- [DevConMU Scheduler](https://github.com/n-d-r-d-g/devcon-scheduler)
+- [frontend.mu](https://github.com/n-d-r-d-g/frontend.mu)
+- [The Web Conference](https://github.com/n-d-r-d-g/conference-2024)
 
 Feel free to contact me for work, coaching or simply talk dev.
 
