@@ -1,4 +1,4 @@
-## **Hi there! I'm n-d-r-d-g, a front-end developer, freelancer and coach based in 🇲🇺 Mauritius!**
+## 👋 **I'm n-d-r-d-g, a front-end developer, freelancer and mentor based in 🇲🇺 Mauritius!**
 
 Here are a few projects I've contributed to:
 
